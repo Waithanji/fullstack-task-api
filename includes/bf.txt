@@ -1,0 +1,419 @@
+Katarzyna Kawa
+Chloe Paquet
+1.16
+4.5
+
+Roberto Carballes Baena
+Albert Ramos-Vinolas
+2.2
+1.6
+
+M Shusharina
+V Strakhova
+1.58
+2.25
+
+S Celik
+J Zuger
+2.4
+1.5
+
+P Llamas Ruiz
+T Skatov
+1.66
+2.1
+
+S Talbi
+A Carrillo Marin
+1.4
+2.75
+
+V Rodriguez
+D Mishina
+1.25
+3.5
+
+Gille/Vliegen
+Huesler/Paul
+2.05
+1.8
+
+Jeremy Chardy
+Nikoloz Basilashvili
+1.83
+1.83
+
+V Tomova
+R Hogenkamp
+3.0
+1.34
+
+A Ingarao
+A Weis
+1.38
+2.8
+
+B Dhoe
+I Carou
+4.5
+1.16
+
+A Popescu
+M Bougrat
+2.1
+1.66
+
+F Arcidiacono
+N Brancaccio
+1.55
+2.3
+
+G Mina
+F Ornago
+3.1
+1.32
+
+Chun Hsin Tseng
+Bernabe Zapata Miralles
+1.75
+1.95
+
+Carlos Taberner
+Lukas Rosol
+2.2
+1.6
+
+A Huertas Del Pino Cordova
+M Veldheer
+2.2
+1.6
+
+T Jirousek
+V Sachko
+1.52
+2.35
+
+G Maristany Zuleta de Reales
+E Silva
+1.25
+3.5
+
+N Borges / F Cabral
+F Dias / G Falcao
+1.45
+2.5
+
+P Vivero Gonzalez
+D Cukierman
+1.95
+1.75
+
+A Raggi
+M Pislak
+2.3
+1.55
+
+E Levashova
+A Kulikova
+2.25
+1.58
+
+K Saar
+P Bakhmutkina
+1.28
+3.3
+
+M Helgo
+L Ponomar
+4.75
+1.14
+
+R Farbas
+A Brune Olsen
+2.1
+1.66
+
+D Lodikova
+C Muramatsu
+2.0
+1.8
+
+Pablo Andujar
+Dusan Lajovic
+1.4
+2.7
+
+L Boskovic
+M Stokke
+1.55
+2.3
+
+S Carr
+K Lozan
+1.25
+3.5
+
+C Bucsa
+A Lazaro Garcia
+1.61
+2.2
+
+I Rosca
+A Bozovic
+1.7
+2.0
+
+Oswald/Polasek
+Duran/Molteni
+1.12
+6.25
+
+Dominic Thiem
+Andrey Rublev
+2.5
+1.45
+
+J Duerst / C Grimm
+K Gerlach / J Wachaczyk
+2.0
+1.7
+
+D Allertova
+V Cepede Royg
+1.3
+3.2
+
+I Soylu
+K Piter
+1.5
+2.4
+
+W Leite
+D Kekez
+2.3
+1.55
+
+A Obert
+N Razborsek
+3.5
+1.25
+
+N Alvarez Varona
+H Grenier
+3.3
+1.28
+
+I Dapkute
+V Kalaitzis
+2.4
+1.5
+
+M Ignatjeva
+S Samavati
+1.3
+3.2
+
+D Galfi
+N Potocnik
+1.24
+4.0
+
+Roberto Bautista Agut
+Joao Sousa
+1.55
+2.3
+
+Begemann/Mergea
+Golubev/Nedovyesov
+2.25
+1.61
+
+Patricia Maria Tig
+Anastasia Potapova
+1.83
+1.83
+
+Mario Vilella Martinez
+Lorenzo Giustino
+1.55
+2.3
+
+O Luz
+B Santanna
+4.0
+1.2
+
+N Turchetti
+J Correia Passos Do Carmo
+1.09
+6.0
+
+E Guerrero Alvarez
+I Murta
+1.58
+2.25
+
+M Georges
+E Cascino
+1.52
+2.35
+
+P Ozgen
+M Osaka
+3.0
+1.38
+
+Filip Krajinovic
+Alexander Zverev
+1.5
+2.4
+
+Pedro Sousa
+Federico Coria
+2.05
+1.68
+
+Blaz Rola
+Elias Ymer
+3.6
+1.24
+
+A Tubello
+S Waltert
+2.1
+1.65
+
+I Fetecau
+E Molinaro
+2.8
+1.38
+
+E Leivo / S Saarteinen
+P Bakhmutkina / N Saidenova
+1.61
+2.2
+
+Ostapenko/Voskoboeva
+Potapova/Sizikova
+1.9
+1.8
+
+J Galarza
+M Netuschil
+1.83
+1.83
+
+Y Hatouka / P Lee
+E Cascino / J Terziyska
+1.62
+2.15
+
+D Rodrigues
+L Faria
+4.5
+1.16
+
+M Caregaro
+M Chwalinska
+2.0
+1.72
+
+M Chernyshova / D Lodikova
+K Kubanova / N Tomanova
+3.3
+1.28
+
+Jomby / Meligeni Rodrigues Alves
+Behar/Escobar
+2.05
+1.75
+
+Fabio Fognini
+Pablo Carreno Busta
+1.92
+1.86
+
+Jil Teichmann
+Anna-Lena Friedsam
+1.5
+2.4
+
+Kimmer Coppejans
+Tallon Griekspoor
+3.2
+1.3
+
+Pedja Krstin
+Mikael Ymer
+2.3
+1.55
+
+A Obert / P Woerner
+M De Krom / R De Valk
+1.83
+1.83
+
+P Arias Manjon / A Lantigua De La Nuez
+E Vedder / J Visscher S
+1.61
+2.2
+
+E Danailova / C Vanhoutte
+S Bavisetti / S Chilakalapudi S
+1.12
+6.0
+
+Anastasija Sevastova
+Irina Bara
+1.95
+1.75
+
+Duckhee Lee
+Joao Menezes
+2.6
+1.42
+
+Zhe Li
+Yasutaka Uchiyama
+1.8
+1.9
+
+Hiroki Moriya
+Borna Gojo
+1.9
+1.8
+
+O Simion
+R Koelzer
+2.3
+1.55
+
+D Evtimova / S Sekulic
+E Guerrero Alvarez / G Maristany Zuleta De Reales
+7.25
+1.06
+
+D Barreto Sanchez
+C Boluda-Purkiss
+1.36
+2.87
+
+D Galfi / K Piter
+C Ene / N Potocnik
+1.9
+1.9
+
+Thomas Fabbiano
+Cedrik-Marcel Stebe
+4.5
+1.16
+
+C Tabur
+M Hamou
+1.38
+3.0
+
+Alex De Minaur
+Bernard Tomic
+1.8
+2.0
